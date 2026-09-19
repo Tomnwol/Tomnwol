@@ -11,8 +11,9 @@ Previously an embedded software intern at [DPTechnics](https://dptechnics.com), 
 | Project | What it is |
 |---|---|
 | [drone-robotech](https://github.com/Tomnwol/drone-robotech) | C++ software (sensor fusion, PID) and PCB design for my Robotech 2025/26 drone |
+| [my-little-nas](https://github.com/Tomnwol/my-little-nas) | Self-hosted NAS on a Raspberry Pi 4: Nextcloud and Obsidian sync in Docker behind an nginx reverse proxy |
 | [ncs-docker-workspace](https://github.com/Tomnwol/ncs-docker-workspace) | Dockerized workspace for Nordic's nRF Connect SDK, so you can build without worrying about the toolchain |
-| [blender-cli-tools](https://github.com/Tomnwol/blender-cli-tools) | Python scripts to drive Blender assets from the CLI |
+
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
