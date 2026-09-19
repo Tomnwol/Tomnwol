@@ -4,13 +4,15 @@
 
 I like building projects that sit between software and hardware.
 
+Previously an embedded software intern at [DPTechnics](https://dptechnics.com), contributing to the Walter IoT board libraries and rewriting a server in Go.
+
 ## Main projects
 
 | Project | What it is |
 |---|---|
-| [drone-robotech](https://github.com/Tomnwol/drone-robotech) | C++ software and PCB design for my drone for Robotech 2025/26 |
+| [drone-robotech](https://github.com/Tomnwol/drone-robotech) | C++ software (sensor fusion, PID) and PCB design for my Robotech 2025/26 drone |
 | [ncs-docker-workspace](https://github.com/Tomnwol/ncs-docker-workspace) | Dockerized workspace for Nordic's nRF Connect SDK, so you can build without worrying about the toolchain |
-| [blender-cli-tools](https://github.com/Tomnwol/blender-cli-tools) | Python scripts to drive Blender assets from CLI |
+| [blender-cli-tools](https://github.com/Tomnwol/blender-cli-tools) | Python scripts to drive Blender assets from the CLI |
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -24,4 +26,4 @@ I like building projects that sit between software and hardware.
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/your-handle) · [Email](mailto:you@example.com)
+[LinkedIn](https://www.linkedin.com/in/tom-merien/) · [Email](mailto:tommerien44@gmail.com)
