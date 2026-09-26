@@ -14,6 +14,7 @@ Previously an embedded software intern at [DPTechnics](https://dptechnics.com), 
 | [my-little-nas](https://github.com/Tomnwol/my-little-nas) | Self-hosted NAS on a Raspberry Pi 4: Nextcloud and Obsidian sync in Docker behind an nginx reverse proxy |
 | [ncs-docker-workspace](https://github.com/Tomnwol/ncs-docker-workspace) | Dockerized workspace for Nordic's nRF Connect SDK, so you can build without worrying about the toolchain |
 
+## Skills
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
