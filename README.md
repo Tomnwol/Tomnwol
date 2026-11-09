@@ -11,7 +11,7 @@ Previously an embedded software intern at [DPTechnics](https://dptechnics.com), 
 | Project | What it is |
 |---|---|
 | [drone-robotech](https://github.com/Tomnwol/drone-robotech) | C++ software (sensor fusion, PID) and PCB design for my Robotech 2025/26 drone |
-| [my-little-nas](https://github.com/Tomnwol/my-little-nas) | Self-hosted NAS on a Raspberry Pi 4: Nextcloud and Obsidian sync in Docker behind an nginx reverse proxy |
+| [inverted-pendulum-rl](https://github.com/Tomnwol/inverted-pendulum-rl) | Inverted pendulum learned with PPO, distilled into a 353-parameter float32 network and run on an STM32 Cortex-M7 in a hardware-in-the-loop loop |
 | [ncs-docker-workspace](https://github.com/Tomnwol/ncs-docker-workspace) | Dockerized workspace for Nordic's nRF Connect SDK, so you can build without worrying about the toolchain |
 
 ## Skills
